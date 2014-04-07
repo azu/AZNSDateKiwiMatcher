@@ -25,6 +25,7 @@
 		17B5C2EB37B53CC845D2D82E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		17B5C401B39BAFA1F3312889 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		17B5C4B17B849E3FF344A028 /* AZNSDateKiwiMatcher.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AZNSDateKiwiMatcher.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		17B5C513BB3C34121A4DC363 /* AZNSDateKiwiMatcher.podspec */ = {isa = PBXFileReference; lastKnownFileType = file.podspec; path = AZNSDateKiwiMatcher.podspec; sourceTree = "<group>"; };
 		17B5C656525D5F0F11703792 /* ExampleSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExampleSpec.m; sourceTree = "<group>"; };
 		17B5C76265621C1AA9FD22A9 /* AZNSDateKiwiMatcher-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = "AZNSDateKiwiMatcher-Info.plist"; sourceTree = "<group>"; };
 		17B5CAE3501D4892A1A24204 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 				17FADD7A74624BB8959F8E60 /* Pods.xcconfig */,
 				17B5C656525D5F0F11703792 /* ExampleSpec.m */,
 				17B5CF9879ABBDED700EB0F0 /* readme.md */,
+				17B5C513BB3C34121A4DC363 /* AZNSDateKiwiMatcher.podspec */,
 			);
 			sourceTree = "<group>";
 		};
