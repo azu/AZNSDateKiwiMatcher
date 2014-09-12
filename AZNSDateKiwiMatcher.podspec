@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = "AZNSDateKiwiMatcher"
-  s.version               = "0.0.2"
+  s.version               = "1.0.0"
   s.summary               = "Kiwi Custom Matcher for Date comparing."
   s.homepage              = "https://github.com/azu/AZNSDateKiwiMatcher"
   s.license               = {:type => "MIT", :file => "LICENSE"}
