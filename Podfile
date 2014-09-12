@@ -1,1 +1,1 @@
-pod 'Kiwi/XCTest'
+pod 'Kiwi'
